@@ -1,0 +1,11 @@
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Admins_POS.Form1.resources
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Admins_POS.Properties.Resources.resources
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Admins POS.csproj.GenerateResource.cache
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Admins POS.csproj.CoreCompileInputs.cache
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Admins POS.exe.config
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Admins POS.exe
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\bin\Debug\Admins POS.pdb
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Admins POS.csproj.CopyComplete
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Admins POS.exe
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Admins POS.pdb
+C:\Users\a77me\Downloads\Design Dashboard Modern\Design Dashboard Modern\PROYECTO DESIGN DASHBOARD\Design Dashboard Modern\obj\Debug\Admins POS.csprojAssemblyReference.cache
