@@ -632,8 +632,6 @@
             animation1.TimeCoeff = 1F;
             animation1.TransparencyCoeff = 0F;
             this.AnimacionSidebar.DefaultAnimation = animation1;
-            this.AnimacionSidebar.Interval = 5;
-            this.AnimacionSidebar.MaxAnimationTime = 800;
             // 
             // AnimacionSidebarBack
             // 
